@@ -1,0 +1,8 @@
+-- ************** Weather Observation Station 5 **************
+SELECT TOP 1 CITY, LEN(CITY) 
+FROM STATION
+ORDER BY LEN(CITY), CITY;
+
+SELECT TOP 1 CITY, LEN(CITY) 
+FROM STATION
+ORDER BY LEN(CITY) DESC, CITY;

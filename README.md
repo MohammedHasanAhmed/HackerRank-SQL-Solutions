@@ -85,7 +85,7 @@ _____
 
 _____
 
-## Basic Join
+## Basic Join Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|

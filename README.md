@@ -1,3 +1,6 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/MohammedHasanAhmed/HackerRank-SQL-Solutions.svg?cache=remove)
+
 # HackerRank-SQL-Solutions
 
 ## Description

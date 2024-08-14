@@ -1,10 +1,17 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/MohammedHasanAhmed/HackerRank-SQL-Solutions.svg?cache=remove)
 
 # HackerRank-SQL-Solutions
 
+<p align="center">  
+	<br>
+	      <a href="https://github.com/MohammedHasanAhmed">
+        <img src="https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png"> 
+    </a>
+  <br>
+</p>
+
 ## Description
-This repository contains My Solutions of SQL challenges on [HackerRank SQL](https://github.com/namithadeshpande/HackerRank-SQL) and you can see multiple solutions for the same challenge.The repository contains 4 folders. These folders contain solutions for easy, medium, and difficult challenges executed on an MS SQL environment.
+This repository contains My Solutions of SQL challenges on [HackerRank](https://github.com/namithadeshpande/HackerRank-SQL) and you can see multiple solutions for the same challenge. The repository contains 4 folders. These folders contain solutions for easy, medium, and difficult challenges executed on an MS SQL environment.
 _____
 
 ## Folders in the Repo

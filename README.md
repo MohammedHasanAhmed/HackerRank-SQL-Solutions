@@ -11,7 +11,7 @@
 </p>
 
 ## Description
-This repository contains My Solutions of SQL challenges on [HackerRank](https://github.com/namithadeshpande/HackerRank-SQL) and you can see multiple solutions for the same challenge. The repository contains 4 folders. These folders contain solutions for easy, medium, and difficult challenges executed on an MS SQL environment.
+This repository contains My Solutions of SQL challenges on [HackerRank](https://github.com/MohammedHasanAhmed/HackerRank-SQL-Solutions) and you can see multiple solutions for the same challenge. The repository contains 4 folders. These folders contain solutions for easy, medium, and difficult challenges executed on an MS SQL environment.
 _____
 
 ## Folders in the Repo

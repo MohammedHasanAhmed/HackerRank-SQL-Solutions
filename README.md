@@ -91,5 +91,5 @@ _____
 |:------:|------------|:---------:|
 | 1 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/MohammedHasanAhmed/HackerRank-SQL-Solutions/blob/main/Basic%20Join/African%20Cities.sql)
 | 2 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/MohammedHasanAhmed/HackerRank-SQL-Solutions/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
-| 3 | [African Cities](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/MohammedHasanAhmed/HackerRank-SQL-Solutions/blob/main/Basic%20Join/Population%20Census.sql)
+| 3 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/MohammedHasanAhmed/HackerRank-SQL-Solutions/blob/main/Basic%20Join/Population%20Census.sql)
 
